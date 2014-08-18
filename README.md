@@ -1,3 +1,0 @@
-tmp
-===
-Storing tmp files
